@@ -18,7 +18,7 @@ There are 2 types of script that you can make:
   - Uses native "C" language
   - Can be harder to code
   - Loading takes some time, because system writes your game into flash, then reboots
-  - Use needs to restart the device to exit
+  - User needs to restart the device to exit
   - Runs faster, because you have more processing power, and less backround tasks
   - Better for games with physics or\and graphics
   - After initial load, (if the user selected to continue playing the game in settings in main menu) on restart of the device, your game can start faster; if you use fast memory, user can continue playing (as if the game was just paused)
