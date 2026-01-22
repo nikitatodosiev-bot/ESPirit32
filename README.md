@@ -1,11 +1,19 @@
-# ESP32 BIOS Ecosystem
+#ESPirit32: Breathe life into your hardware.
+
+Code less, create more.
+Heavy on features, light on resources.
+Stable. Secure. Yours.
+
 
 This repository contains the ESP32 BIOS, example devices, and example games.
 
 ## Overview
-The BIOS is designed as an open-source platform for custom devices and applications.
-Enthusiasts can create their own hardware or games using this BIOS.
-A reference device is provided in `docs/examples/`.
+- This Ecosystem is designed as an open-source platform for custom devices and applications.
+  - We don't believe in "bloatware." In an era where software demands more and more, we go back to the roots.
+- You can create your own hardware or games using this BIOS.
+  - You create ideas, we handle - ESPirit32 is engineered to be lightweight, ensuring that every CPU cycle is spent on your logic, not our overhead. It’s built to fly - even on "potato" hardware.
+  - Enthusiasm shouldn't be crushed by a steep learning curve. We bridge the gap between "powerful" and "approachable." With clean APIs and transparent documentation, we ensure that moving from an idea to a working prototype is a matter of minutes, not days.
+- ESPirit32 belongs to the community. No hidden blobs, no proprietary locks, and no paywalls. It is open-source in its purest form—auditable, modifiable, and forever free. If you see a way to make it better, the door is always open.
 
 ## License
 The BIOS is licensed under the GNU General Public License v3.0 (GPLv3).
