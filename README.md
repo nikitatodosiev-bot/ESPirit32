@@ -17,6 +17,7 @@
 
 - Supported by us, **Created along with the community**
 - **Have a question?** Ask other people - they are *the same explorers as* **you** - help each other out!
+- "Experimental" is for labs; **"ESPirit32" is for the real world**. We prioritize a stable core that handles edge cases gracefully, ensuring your projects work **100% of the time**
 
 
 ## License
