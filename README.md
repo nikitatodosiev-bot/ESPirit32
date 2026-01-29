@@ -18,7 +18,7 @@
 - Supported by us, **Created along with the community**
 - **Have a question?** Ask other people - they are *the same explorers as* **you** - help each other out!
 - "Experimental" is for labs; **"ESPirit32" is for the real world**. We prioritize a stable core that handles edge cases gracefully, ensuring your projects work **100% of the time**
-# You may know that making **your own** *thing* can be pretty hard, say no more(lol) - with our API you can finally start coding - **no more monotonous tasks**; while you already test your project, others only #include bullshit0, bullshit1, bullshit2, (and so on...).
+- You may know that making **your own** *thing* can be pretty hard, say no more(lol) - with our API you can finally start coding - **no more monotonous tasks**; while you already test your project, others only #include bullshit0, bullshit1, bullshit2, (and so on...).
 
 
 ## License
