@@ -38,3 +38,6 @@ and best practices; [docs/programmers.md](docs/programmers.md) for refernces and
 The authors provide this BIOS and examples "as-is".
 We do not manufacture, endorse, or support any devices.
 Any device or application built with this BIOS is the responsibility of its creator.
+
+Why r you reading all this? 
+No more yapping, go make your **dream project!**
